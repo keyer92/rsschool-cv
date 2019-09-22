@@ -1,4 +1,4 @@
-1. Eugene Kostiukevich
+1. Yauhen Kastsiukevich (Eugene Kostiukevich)
 2. Tel.number: +375-29-347-88-87; email: eugenekostiukevich@gmail.com
 3. After graduation it was interesting to study html and css. I decide to study front-end and try yourself in a new field.
 4. Basic level of HTML and CSS.

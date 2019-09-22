@@ -1,0 +1,12 @@
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.main-info {
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid rgb(83, 83, 141);
+    background-color: gray;
+    color: white;
+}
